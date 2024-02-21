@@ -1,4 +1,4 @@
-# Example Problem: Candy Company
+# Example Problem: JellyPop
 
 The marketing team at a growing candy manufacturer, JellyPop, is under pressure from executives to demonstrate that their media strategy is working. They hire us to help them quantify the efficiency of their advertising and tune their investments in various paid channels. They have prepared the file 'marketing_data.csv' for us to work with.
 
